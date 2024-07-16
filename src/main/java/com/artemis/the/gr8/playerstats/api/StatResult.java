@@ -19,7 +19,7 @@ import net.kyori.adventure.text.TextComponent;
  * <li> for serverStat:
  * <br> [Total on] [server-name]: [formatted-number] [stat-name] [sub-stat-name]
  * <li> for topStat:
- * <br> [PlayerStats] [Top x] [stat-name] [sub-stat-name]
+ * <br> [HydraEstatísticas] [Top x] [stat-name] [sub-stat-name]
  * <br> [1.] [player-name] [.....] [formatted-number]
  * <br> [2.] [player-name] [.....] [formatted-number]
  * <br> [3.] etc...

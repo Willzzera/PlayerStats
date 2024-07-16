@@ -29,27 +29,27 @@ public interface StatTextFormatter {
 
     /**
      * Gets the default prefix PlayerStats uses.
-     * @return [PlayerStats]
+     * @return [HydraEstatísticas]
      */
     TextComponent getPluginPrefix();
 
     /**
      * Gets the special rainbow version of PlayerStats' prefix.
-     * @return [PlayerStats] in rainbow color
+     * @return [HydraEstatísticas] in rainbow color
      * s*/
     TextComponent getRainbowPluginPrefix();
 
     /**
      * Gets the version of the prefix that is surrounded by underscores.
      * This is meant to be used as a title above a message or statistic display.
-     * @return ________ [PlayerStats] ________
+     * @return ________ [HydraEstatísticas] ________
      */
     TextComponent getPluginPrefixAsTitle();
 
     /**
      * Gets the special rainbow version of the title-prefix.
      *
-     * @return ________ [PlayerStats] ________ in rainbow colors
+     * @return ________ [HydraEstatística] ________ in rainbow colors
      */
     TextComponent getRainbowPluginPrefixAsTitle();
 
